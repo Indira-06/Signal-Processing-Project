@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.m~
+*.fig
+*.mdl
+*.slxc
+*.slx
+*.mex*
+*.user
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Zip file backups
+*.zip
